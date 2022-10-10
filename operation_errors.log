@@ -1,0 +1,5 @@
+2022-10-10 17:33:53,453:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:\Users\gocne\AppData\Local\Temp\ipykernel_15496\3396637944.py", line 35, in divide
+    result = x / y
+ZeroDivisionError: division by zero
