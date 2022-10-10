@@ -1,0 +1,4 @@
+DEBUG:root:Add: 40 + 30 = 70
+DEBUG:root:Sub: 40 - 30 = 10
+DEBUG:root:Mul: 40 * 30 = 1200
+DEBUG:root:Div: 40 / 30 = 1.3333333333333333
