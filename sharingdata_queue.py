@@ -1,4 +1,6 @@
 import multiprocessing
+## queue is basically a shared memory.
+## queue is basically a data structure where you put in data from one end and pull it from the other end.
 
 def calc_square(numbers, q):
     for n in numbers:
